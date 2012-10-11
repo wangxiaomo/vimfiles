@@ -1,3 +1,4 @@
+call pathogen#infect()
 
 let mapleader=','
 syntax on
